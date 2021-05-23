@@ -89,7 +89,7 @@
 🐛 :: [MainPage] 헤더가 안보이는 버그 수정
 ```
 ```
-🐛 :: [FeedServiceImpl] 피드 버그 로직 수정
+🐛 :: (#19)[FeedServiceImpl] 피드 버그 로직 수정
 ```
 ```
 🚀 :: v1.0.0
