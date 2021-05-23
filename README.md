@@ -1,14 +1,20 @@
 # XQUARE 프로젝트를 시작하기전
 
-## 커밋메세지
+
+
+## 커밋 규칙
+
+### 커밋메세지
+
 > 다음은 커밋메세지의 형식입니다.
 ``` 
 
-  CommitType :: [Domain] Subject
+  CommitType :: (#issue number)[Domain] Subject
   
- ```
- 
- ## Commit Type
+```
+
+### Commit Type
+
  > 다음은 커밋타입 형식입니다.
 
 |CommitType|설명|
@@ -23,7 +29,8 @@
 |🧪 ::|테스트 코드 추가|
 |🚀 ::|새 버전 릴리즈|
 
-## Domain
+### Domain
+
 > 커밋메세지 형식의 Domain 부분에 기재
 
 * ```[   ]``` 안에 작성한다.
@@ -34,10 +41,22 @@
 
 [MainPage]
 
-
 ```
 
-## Subject
+### issue number
+
+위에 #issue number 이라고 기재한 부분:
+
+- merge commit이나 PR을 날릴때에만 사용한다.
+- `(  )` 안에 작성한다.
+- `#`뒤에 개발한 브런치가 기반을둔 issue number을 기입한다.
+
+```
+(#12)
+```
+
+### Subject
+
 > 커밋메세지 형식의 Subject 부분에 기재
 
 * 50자를 넘기지 않게 명령형으로 작성한다.
@@ -51,7 +70,8 @@
 
 ```
 
-## Example
+### Example
+
 ```
 🐛 :: [MainPage] 헤더가 안보이는 버그 수정
 ```
