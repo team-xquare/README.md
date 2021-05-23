@@ -1,5 +1,18 @@
 # XQUARE 프로젝트를 시작하기전
 
+## 개발 프로세스
+
+> 1. issue 생성
+> 2. issue 기반 branch 생성
+> 3. issue와 관련된 feature 개발 완료
+> 4. PR 혹은 merge commit 생성시에도 커밋 메세지 규칙에 맞춰 작성
+> 5. PR이 주요 branch로 merge되기 위한 조건
+>    - 최소 1명의 review의 approve
+>    - CI로 인한 build success
+>    - test case 작성 - optional
+> 6. merge 후 feature branch 제거
+> 7. issue close
+
 
 
 ## 커밋 규칙
