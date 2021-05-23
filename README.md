@@ -15,6 +15,30 @@
 
 
 
+## 이슈 규칙
+
+> 한 기능 당 하나의 issue 생성을 원칙으로 합니다.
+
+* ```[   ]``` 안에 작성한다.
+* 작업한 부분의 도메인을 기입한다
+
+``` [Domain] Subject
+
+	[Domain] Subject
+
+```
+
+| Label     | Description                                | Color Code | 의미                                                         |
+| --------- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 버그      | Something isn't working                    | #d73a4a    | 예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다. |
+| 기능 추가 | New feature or request                     | #a2eeef    | 새로운 기능 요청을 나타냅니다.                               |
+| DOCS      | Improvements or additions to documentation | #cfd3d7    | 문서를 개선하거나 추가 할 필요가 있음을 나타냅니다.          |
+| UI 작업   |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
+
+위의 Labels 중 자신이 생성한 issue와 성격이 맞는 label을 선택해 추가한다.
+
+
+
 ## 커밋 규칙
 
 ### 커밋메세지
