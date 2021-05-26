@@ -46,13 +46,14 @@
 
 >  새 리포지토리를 생성하면 issue label을 위같이 설정한다.
 
-| Label     | Description                                | Color Code | 의미                                                         |
-| --------- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 버그      | Something isn't working                    | #d73a4a    | 예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다. |
-| 기능 추가 | New feature or request                     | #a2eeef    | 새로운 기능 요청을 나타냅니다.                               |
-| DOCS      | Improvements or additions to documentation | #cfd3d7    | 문서를 개선하거나 추가 할 필요가 있음을 나타냅니다.          |
-| UI 작업   |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
-| 리펙토링  | Refactoring is needed                      | #008672    | 리펙토링이 필요함을 나타냅니다.                              |
+| Label         | Description                                | Color Code | 의미                                                         |
+| ------------- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| 버그          | Something isn't working                    | #d73a4a    | 예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다. |
+| 기능 추가     | New feature or request                     | #a2eeef    | 새로운 기능 요청을 나타냅니다.                               |
+| DOCS          | Improvements or additions to documentation | #cfd3d7    | 문서를 개선하거나 추가 할 필요가 있음을 나타냅니다.          |
+| UI 작업       |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
+| 리펙토링      | Refactoring is needed                      | #008672    | 리펙토링이 필요함을 나타냅니다.                              |
+| 프로젝트 설정 | Project setting is needed                  | #555303    | 프로젝트 설정이 필요함을 나타냅니다.                         |
 
 
 
