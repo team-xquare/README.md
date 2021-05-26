@@ -1,5 +1,13 @@
 # XQUARE 프로젝트를 시작하기전
 
+## 목차
+
+* [개발 프로세스](https://github.com/TEAM-XQUARE/README.md#개발-프로세스)
+* [이슈규칙](https://github.com/TEAM-XQUARE/README.md#이슈-규칙)
+* [커밋규칙](https://github.com/TEAM-XQUARE/README.md#커밋-규칙)
+
+
+
 ## 개발 프로세스
 
 > 1. issue 생성
