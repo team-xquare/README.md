@@ -34,7 +34,7 @@
 
 ### Labels
 
->  다음의 Labels 중 자신이 생성한 issue와 성격이 맞는 label을 선택해 추가한다.
+>  새 리포지토리를 생성하면 issue label을 위같이 설정한다.
 
 | Label     | Description                                | Color Code | 의미                                                         |
 | --------- | ------------------------------------------ | ---------- | ------------------------------------------------------------ |
@@ -42,6 +42,7 @@
 | 기능 추가 | New feature or request                     | #a2eeef    | 새로운 기능 요청을 나타냅니다.                               |
 | DOCS      | Improvements or additions to documentation | #cfd3d7    | 문서를 개선하거나 추가 할 필요가 있음을 나타냅니다.          |
 | UI 작업   |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
+| 리펙토링  | Refactoring is needed                      | #008672    | 리펙토링이 필요함을 나타냅니다.                              |
 
 
 
@@ -70,7 +71,8 @@
 |📝 ::|문서 작성 및 수정|
 |⚙️ ::|프로젝트 세팅|
 |🧪 ::|테스트 코드 추가|
-|🚀 ::|새 버전 릴리즈|
+|🚀 ::|새 버전 릴리즈 ( 커밋은 아니지만😏|
+|🔀 ::|Merge or PR|
 
 ### Domain
 
@@ -110,6 +112,7 @@
 
 "~수정 했다" → "~수정"
 
+"Add~" → "~추가"
 
 ```
 
@@ -128,3 +131,49 @@
 📝 :: README 파일 수정
 ```
 
+
+
+### 브랜치 규칙
+
+> 기본적으로 GitFlow를 따릅니다
+
+### Feature Branch
+
+```markdown
+
+Feature/{issue number}_{todo}
+
+```
+
+
+
+### 버전 규칙
+
+![소프트웨어 버전 규칙 - Semantic Versioning : 네이버 블로그](https://lh3.googleusercontent.com/proxy/X4MxQui0Qxx-1CPcLNUDuGgmiEEShXlyIArFG6rEuI8lR_0FQoVbHYpPsWG8PlsWO6tluZIj3VO-er9p7yH9g_HbMvotXV46pSaSBO8mzK5SydyRM0myr_4mX57xX0oT9d-wjjY7r9Cq1dGUl4TBXv5a13y96sPt-S09LR4jx1ll1XL8_3ZzenyGceM_RZq7yUn3_rvDrTvcg8xm3eNFkkdHA8onLYrL1KQ8OHUW_ruNO0rc4-brttRsxlIFAGGXSB-aEKpda518lKQIkxw8DAcIjOh8TXFjwAze)
+
+모든 버전은 01.00.00에서 시작한다.
+
+```jsx
+
+"01.01.09" 생략시 "1.1.9"
+
+"01.01.10" 생략시 "1.1.10"
+
+```
+
+### Major Version
+
+- 1로 시작한다.
+- 증가 시 나머지 버전 정보 초기화
+- 전체를 뒤엎었을때 변화한다.
+
+### Minor Version
+
+- 00으로 시작한다 
+- 없던 기능의 추가나 기존 기능의 수정 등의 변화가 발생했을때 이 수치를 올린다.
+
+### Patches
+
++ 00으로 시작한다.
+
+- 자잘한 버그나 내부적 코드 보완 등의 변화가 발생했을때 이 수치를 올린다.
