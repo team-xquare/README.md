@@ -5,6 +5,8 @@
 * [개발 프로세스](https://github.com/TEAM-XQUARE/README.md#개발-프로세스)
 * [이슈규칙](https://github.com/TEAM-XQUARE/README.md#이슈-규칙)
 * [커밋규칙](https://github.com/TEAM-XQUARE/README.md#커밋-규칙)
+* [브랜치규칙](https://github.com/TEAM-XQUARE/README.md#브랜치-규칙)
+* [버전규칙](https://github.com/TEAM-XQUARE/README.md#버전-규칙)
 
 
 
@@ -159,7 +161,7 @@ Feature/{issue number}_{todo}
 
 ![소프트웨어 버전 규칙 - Semantic Versioning : 네이버 블로그](https://lh3.googleusercontent.com/proxy/X4MxQui0Qxx-1CPcLNUDuGgmiEEShXlyIArFG6rEuI8lR_0FQoVbHYpPsWG8PlsWO6tluZIj3VO-er9p7yH9g_HbMvotXV46pSaSBO8mzK5SydyRM0myr_4mX57xX0oT9d-wjjY7r9Cq1dGUl4TBXv5a13y96sPt-S09LR4jx1ll1XL8_3ZzenyGceM_RZq7yUn3_rvDrTvcg8xm3eNFkkdHA8onLYrL1KQ8OHUW_ruNO0rc4-brttRsxlIFAGGXSB-aEKpda518lKQIkxw8DAcIjOh8TXFjwAze)
 
-모든 버전은 01.00.00에서 시작한다.
+>  모든 버전은 01.00.00에서 시작한다.
 
 ```jsx
 
