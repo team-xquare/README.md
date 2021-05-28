@@ -160,7 +160,7 @@ Feature/{issue number}_{todo}
 
 ### 버전 규칙
 
-![소프트웨어 버전 규칙 - Semantic Versioning : 네이버 블로그](https://lh3.googleusercontent.com/proxy/X4MxQui0Qxx-1CPcLNUDuGgmiEEShXlyIArFG6rEuI8lR_0FQoVbHYpPsWG8PlsWO6tluZIj3VO-er9p7yH9g_HbMvotXV46pSaSBO8mzK5SydyRM0myr_4mX57xX0oT9d-wjjY7r9Cq1dGUl4TBXv5a13y96sPt-S09LR4jx1ll1XL8_3ZzenyGceM_RZq7yUn3_rvDrTvcg8xm3eNFkkdHA8onLYrL1KQ8OHUW_ruNO0rc4-brttRsxlIFAGGXSB-aEKpda518lKQIkxw8DAcIjOh8TXFjwAze)
+![버전 규칙](https://user-images.githubusercontent.com/67373938/119933978-0ac15300-bfc0-11eb-99cd-0198b1ee6f2d.png)
 
 >  모든 버전은 01.00.00에서 시작한다.
 
