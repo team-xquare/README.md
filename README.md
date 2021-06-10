@@ -54,6 +54,7 @@
 | UI 작업       |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
 | 리펙토링      | Refactoring is needed                      | #008672    | 리펙토링이 필요함을 나타냅니다.                              |
 | 프로젝트 설정 | Project setting is needed                  | #555303    | 프로젝트 설정이 필요함을 나타냅니다.                         |
+| 테스트 추가   | Request a new test				| #CD7F57    | 새로운 테스트 요청을 나타냅니다.				|
 
 
 
