@@ -28,19 +28,16 @@
 ## 이슈 규칙
 
 > 한 기능 당 하나의 issue 생성을 원칙으로 합니다.
-
-### 이슈메시지
-
->  다음은 이슈메시지의 형식입니다.
-
-* ```[   ]``` 안에 작성한다.
-* 작업한 부분의 도메인을 기입한다.
+>
+> 생성한 issuedhk 성격이 맞는 label을 선택하여 추가한다.
 
 ``` [Domain] Subject
 
-	[Domain] Subject
+	Subject
 
 ```
+
+위는 모든 이슈 메세지의 형식이다.
 
 ### Labels
 
@@ -51,10 +48,10 @@
 | 버그          | Something isn't working                    | #d73a4a    | 예기치 않은 문제 또는 의도하지 않은 동작(버그)을 나타냅니다. |
 | 기능 추가     | New feature or request                     | #a2eeef    | 새로운 기능 요청을 나타냅니다.                               |
 | DOCS          | Improvements or additions to documentation | #cfd3d7    | 문서를 개선하거나 추가 할 필요가 있음을 나타냅니다.          |
-| UI 작업       |                                            | #0075ca    | UI작업이 필요함을 나타냅니다.                                |
+| Chore         |                                            | #0075ca    | 자잘한 수정들을 나타냅니다.                                  |
 | 리펙토링      | Refactoring is needed                      | #008672    | 리펙토링이 필요함을 나타냅니다.                              |
 | 프로젝트 설정 | Project setting is needed                  | #555303    | 프로젝트 설정이 필요함을 나타냅니다.                         |
-| 테스트 추가   | Request a new test				| #CD7F57    | 새로운 테스트 요청을 나타냅니다.				|
+| 테스트 추가   | Request a new test                         | #CD7F57    | 새로운 테스트 요청을 나타냅니다.                             |
 
 
 
