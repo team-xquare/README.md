@@ -62,7 +62,7 @@
 > 다음은 커밋메세지의 형식입니다.
 ``` 
 
-  CommitType :: (#issue number)[Domain] Subject
+  CommitType :: (#issue number) Subject
   
 ```
 
@@ -83,19 +83,7 @@
 |🚀 ::|새 버전 릴리즈 ( 커밋은 아니지만😏|
 |🔀 ::|Merge or PR|
 
-### Domain
 
-> 커밋메세지 형식의 Domain 부분에 기재
-
-* ```[   ]``` 안에 작성한다.
-* 작업한 부분의 도메인을 기입한다
-* 도메인과 관련이 없거나 굳이 작성할 필요가 없을땐 작성 하지 않아도 된다.
-
-```bash
-
-[MainPage]
-
-```
 
 ### issue number
 
