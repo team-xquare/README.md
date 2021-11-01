@@ -56,6 +56,8 @@
 
 
 ## 커밋 규칙
+> 프론트엔드라면 아래 링크를 확인해주세요!
+* [프론트엔드](https://github.com/team-xquare/README.md/tree/main/frontend)
 
 ### 커밋메세지
 
