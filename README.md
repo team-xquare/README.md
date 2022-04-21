@@ -29,7 +29,7 @@
 
 > 한 기능 당 하나의 issue 생성을 원칙으로 합니다.
 >
-> 생성한 issuedhk 성격이 맞는 label을 선택하여 추가한다.
+> 생성한 issue 성격이 맞는 label을 선택하여 추가한다.
 
 ``` [Domain] Subject
 
