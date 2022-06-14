@@ -7,6 +7,7 @@
 * [커밋규칙](https://github.com/TEAM-XQUARE/README.md#커밋-규칙)
 * [브랜치규칙](https://github.com/TEAM-XQUARE/README.md#브랜치-규칙)
 * [버전규칙](https://github.com/TEAM-XQUARE/README.md#버전-규칙)
+* [Lisence](https://github.com/team-xquare/README.md/blob/main/README.md#license)
 
 
 
@@ -179,5 +180,5 @@ Feature/{issue number}_{todo}
 
 
 ## License
-> 해당 문서에 대한 라이센스는 대덕소프트웨어 마이스터 고등학교의 SEMICOLON;과 XQUARE팀에 있습니다. 
+> 해당 문서에 대한 라이센스는 대덕소프트웨어 마이스터 고등학교의 SEMICOLON; & XQUARE팀에 있습니다. 
 > 해당 문서는 출처만 남겨주신다면, 자유롭게 이용하실 수 있습니다!
